@@ -10,6 +10,4 @@ The Game Play:
                  Click SELECT (delete on your keyboard) to restart the game and go back to the Start Screen.
     Win/Lose Screen: Click SELECT or START (delete or enter or return .on your keyboard) to restart the game.
 
-The Lore:
-    POV: You keep on adopting cats but they keep on running away from you...
 
